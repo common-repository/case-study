@@ -1,0 +1,39 @@
+.cs_container { width: 100%; max-width: 1396px; padding-left: 2px; padding-right: 2px; background: none;}
+.csheading {font-size: 22px; color: #555;}
+#__pagebanner .pagetitle { right: 0px;}
+#__mainContainer .content-block{color:#767676}
+.__sortitems .sortmenu li a{ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif !important; font-weight:normal !important; font-size:14px !important }
+.__sortitems .sortmenu li a.selected{ background:#24890d !important; }
+.__sortitems{ padding:0 0 25px !important; }
+.__homeitems{ background:none !important; }
+.__homeitems figure.item h4 span{ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif !important; background:rgba(255, 255, 255, 0.7) !important }
+.__homeitems figure.item h4 span{ font-size:13px !important }
+.__homeitems figure.item:hover h4 span{ background:#24890d !important; }
+.__homeitems figure.item aside{ background-color:rgba(64,64,64,0.7) !important; color:#fff !important; padding:10px 20px !important; }
+.ie8 .__homeitems figure.item aside {background-color: #404040 !important;}
+#progressBar{ background:#C1BFBF !important }
+#__CaseStudySlider .caption{ background:rgba(36, 137, 13, 0.6;) !important; }
+.entry-title{ font-size:25px !important; text-transform:capitalize; }
+::-moz-selection{background:#41A62A !important;}
+::selection{background:#41A62A !important;}
+#__CaseStudySlider .caption{ background:#000 !important; color:#fff !important; padding:10px 20px !important; clear: both;}
+#__CaseStudySlider2 .caption{padding:10px 20px !important;}
+#__CaseStudySlider a:hover{ text-decoration:none !important; }
+.owl-theme .owl-controls{ background:#ededed !important }
+#__CaseStudySlider2_thumb .synced img{ border:5px solid #41a62a !important; }
+#__CaseStudySlider2 .caption a{ text-decoration:none !important; }
+#__CaseStudySlider2 .owl-controls .owl-buttons .owl-next, #__CaseStudySlider2 .owl-controls .owl-buttons .owl-prev{ background-color:#41a62a; }
+#__CaseStudySlider2 .owl-controls {position: static !important;}
+#__CaseStudySlider2_thumb{ padding-left:0 !important; padding-right:0 !important; }
+#__CaseStudySlider2_thumb .item{ padding:0 !important;  }
+.container__pages {padding: 10px 30px !important;}
+.item object {margin-bottom: 0px; float: left;}
+.col-md-6 { width: 50%; }
+.ie8 #__CaseStudySlider2 .owl-controls .owl-buttons .owl-prev { background-image: url("../images/arrow-left.png"); background-position: center center;}
+.ie8 #__CaseStudySlider2 .owl-controls .owl-buttons .owl-next { background-image: url("../images/arrow-right.png"); background-position: center center;}
+
+.ie8 #__CaseStudySlider .owl-controls.clickable .owl-buttons .owl-prev { background-image: url("../images/arrow_left1.png"); background-position: center center;}
+.ie8 #__CaseStudySlider .owl-controls.clickable .owl-buttons .owl-next { background-image: url("../images/arrow-right1.png"); background-position: center center;}
+.__homeitems figure.item a {position: relative;}
+.ie8 .__homeitems figure {height:185px; width:300px;}
+
